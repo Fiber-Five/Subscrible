@@ -1,4 +1,3 @@
-proxies:
   - {name: fastq-a1-36412, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 364126551953899520, password: eba2f73a-8ca3-4cdd-b9b5-91c3b538e56a, tls: true, skip-cert-verify: false}
   - {name: fastq-a1-37497, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 374973100795625472, password: 5d7040ae-0ae3-41a6-86d2-a7ee73176506, tls: true, skip-cert-verify: false}
   - {name: fastq-a1-39317, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 393177908073463808, password: e87991b8-2455-430d-bbbc-633a5bc2b935, tls: true, skip-cert-verify: false}
