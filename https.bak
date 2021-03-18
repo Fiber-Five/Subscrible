@@ -1,3 +1,39 @@
-
-"+Fastq-G7-UK":{"profileType":"FixedProfile","name":"Fastq-G7-UK","bypassList":[{"conditionType":"BypassCondition","pattern":"127.0.0.1"},{"conditionType":"BypassCondition","pattern":"[::1]"},{"conditionType":"BypassCondition","pattern":"localhost"},{"conditionType":"BypassCondition","pattern":"192.168.5.1/24"},{"conditionType":"BypassCondition","pattern":"10.110.24.1/24"},{"conditionType":"BypassCondition","pattern":"xingjiyingshi.com"}],"color":"#fa8","revision":"1783102153e","fallbackProxy":{"scheme":"https","port":29987,"host":"global.ap.fastqvpn.com"},"auth":{"fallbackProxy":{"username":"405367546741522432","password":"abae5ebd-9abf-419e-b68b-a31e8f5096ac"}}},
-"+Fastq-G7-UK":{"host":"global.ap.fastqvpn.com"},"auth":{"fallbackProxy":{"username":"405367546741522432","password":"abae5ebd-9abf-419e-b68b-a31e8f5096ac"}}},
+"+Fastq-G7-UK":
+        {
+        "profileType":"FixedProfile",
+        "name":"Fastq-G7-UK",
+        "bypassList":[
+		    {      
+             "conditionType":"BypassCondition", "pattern":"127.0.0.1"
+		    },
+		    {
+			"conditionType":"BypassCondition","pattern":"[::1]"
+			},
+		    {
+			"conditionType":"BypassCondition","pattern":"localhost"
+			},
+		    {
+			"conditionType":"BypassCondition","pattern":"192.168.5.1/24"
+		    },
+		    {
+			"conditionType":"BypassCondition","pattern":"10.110.24.1/24"
+		    },
+		    {
+			"conditionType":"BypassCondition","pattern":"xingjiyingshi.com"
+		    }
+		   ],
+		"color":"#fa8",
+		"revision":"1783102153e",
+		"fallbackProxy":
+		    {
+			"scheme":"https",
+			"port":29987,
+			"host":"global.ap.fastqvpn.com"
+		    },
+			"auth":{
+				"fallbackProxy":
+				{
+				"username":"405367546741522432",
+				"password":"abae5ebd-9abf-419e-b68b-a31e8f5096ac"}
+				}
+		},
